@@ -1,4 +1,8 @@
-<h1>Technology We Used 💻</h1>
+<h3>Links for reference :</h3>
+<p>Github-repo - https://github.com/Ajinkya6898/IPL-Scoreboard.git</p>
+<p>Visit Site - https://ipl-scoreboard.vercel.app/</p>
+
+<h1>Technology Used 💻</h1>
 
 <ol>
      <li>REACT</li>
