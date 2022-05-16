@@ -17,7 +17,7 @@ The match is betwwen the two most successful teams of the IPL history. CSK VS MI
 I have also added the functionality where you can change the wickets and over as well for that you have to click on respective buttons.</p>
 
 <h3>Sample Photo</h3>
-<img src="photo.PNG">
+<img src="https://github.com/Ajinkya6898/IPL-Scoreboard/blob/main/public/photo.PNG">
 
 <p>please check this one out and let me where I can improve.</p>
 <p>Thank You.</p>
